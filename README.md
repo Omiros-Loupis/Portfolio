@@ -3,6 +3,7 @@
 A modern, fully responsive personal portfolio website designed to showcase my software engineering projects and technical skills.
 Built with a mobile-first approach using HTML5, Tailwind CSS, and Vanilla JavaScript.
 
+Live Demo: https://omiros-loupis.github.io/Portfolio/
 
 ✨ Key Features
 
